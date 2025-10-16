@@ -1,0 +1,65 @@
+{
+  "source": "samples\\winner_dog.png",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "a dog walking on a sidewalk",
+    "confidence": 0.69016432762146
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a dog walking on a sidewalk",
+      "confidence": 0.69016432762146
+    },
+    "metadata": {
+      "width": 370,
+      "height": 387
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "animal",
+          "confidence": 0.9972267150878906
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9969651699066162
+        },
+        {
+          "name": "dog",
+          "confidence": 0.9845455884933472
+        },
+        {
+          "name": "pet",
+          "confidence": 0.973042368888855
+        },
+        {
+          "name": "dog breed",
+          "confidence": 0.9621912240982056
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9369202852249146
+        },
+        {
+          "name": "welsh corgi",
+          "confidence": 0.8881258964538574
+        },
+        {
+          "name": "corgi",
+          "confidence": 0.8739190697669983
+        },
+        {
+          "name": "pembroke welsh corgi",
+          "confidence": 0.8612723350524902
+        },
+        {
+          "name": "ground",
+          "confidence": 0.8436776399612427
+        }
+      ]
+    }
+  }
+}

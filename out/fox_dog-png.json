@@ -1,0 +1,77 @@
+{
+  "source": "samples\\fox_dog.png",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "a dog lying on a rug",
+    "confidence": 0.7616643905639648
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a dog lying on a rug",
+      "confidence": 0.7616643905639648
+    },
+    "metadata": {
+      "width": 392,
+      "height": 495
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "mammal",
+          "confidence": 0.9852317571640015
+        },
+        {
+          "name": "pet",
+          "confidence": 0.9755982160568237
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9649440050125122
+        },
+        {
+          "name": "dog breed",
+          "confidence": 0.9407919645309448
+        },
+        {
+          "name": "dog",
+          "confidence": 0.8976036906242371
+        },
+        {
+          "name": "indoor",
+          "confidence": 0.8962175846099854
+        },
+        {
+          "name": "floor",
+          "confidence": 0.6691860556602478
+        },
+        {
+          "name": "ground",
+          "confidence": 0.6028684973716736
+        },
+        {
+          "name": "brown",
+          "confidence": 0.5931621193885803
+        },
+        {
+          "name": "chihuahua",
+          "confidence": 0.5723128914833069
+        },
+        {
+          "name": "puppy",
+          "confidence": 0.5564453601837158
+        },
+        {
+          "name": "rug",
+          "confidence": 0.5450682044029236
+        },
+        {
+          "name": "corgi",
+          "confidence": 0.4927537739276886
+        }
+      ]
+    }
+  }
+}

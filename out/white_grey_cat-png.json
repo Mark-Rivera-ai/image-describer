@@ -1,0 +1,65 @@
+{
+  "source": "samples\\white_grey_cat.png",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "a cat sitting on a couch",
+    "confidence": 0.8514760732650757
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a cat sitting on a couch",
+      "confidence": 0.8514760732650757
+    },
+    "metadata": {
+      "width": 440,
+      "height": 482
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "animal",
+          "confidence": 0.9917522668838501
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9910670518875122
+        },
+        {
+          "name": "felidae",
+          "confidence": 0.9705713987350464
+        },
+        {
+          "name": "small to medium-sized cats",
+          "confidence": 0.9620996713638306
+        },
+        {
+          "name": "cat",
+          "confidence": 0.9610754251480103
+        },
+        {
+          "name": "whiskers",
+          "confidence": 0.9448750615119934
+        },
+        {
+          "name": "domestic cat",
+          "confidence": 0.9221655130386353
+        },
+        {
+          "name": "indoor",
+          "confidence": 0.548500657081604
+        },
+        {
+          "name": "kitten",
+          "confidence": 0.5380063056945801
+        },
+        {
+          "name": "kitty",
+          "confidence": 0.4648887515068054
+        }
+      ]
+    }
+  }
+}

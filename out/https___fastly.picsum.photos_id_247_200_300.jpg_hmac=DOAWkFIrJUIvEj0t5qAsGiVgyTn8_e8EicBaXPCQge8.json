@@ -1,0 +1,105 @@
+{
+  "source": "https://fastly.picsum.photos/id/247/200/300.jpg?hmac=DOAWkFIrJUIvEj0t5qAsGiVgyTn8_e8EicBaXPCQge8",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "a large red hill with bushes",
+    "confidence": 0.5803879499435425
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a large red hill with bushes",
+      "confidence": 0.5803879499435425
+    },
+    "metadata": {
+      "width": 200,
+      "height": 300
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "outdoor",
+          "confidence": 0.9909932613372803
+        },
+        {
+          "name": "nature",
+          "confidence": 0.9855507016181946
+        },
+        {
+          "name": "mountain",
+          "confidence": 0.9799042344093323
+        },
+        {
+          "name": "sky",
+          "confidence": 0.9562162756919861
+        },
+        {
+          "name": "landscape",
+          "confidence": 0.9442583322525024
+        },
+        {
+          "name": "aeolian landform",
+          "confidence": 0.9363174438476562
+        },
+        {
+          "name": "badlands",
+          "confidence": 0.9335603713989258
+        },
+        {
+          "name": "geology",
+          "confidence": 0.9249740839004517
+        },
+        {
+          "name": "makhtesh",
+          "confidence": 0.9070125818252563
+        },
+        {
+          "name": "terrain",
+          "confidence": 0.8941316604614258
+        },
+        {
+          "name": "wadi",
+          "confidence": 0.8902822136878967
+        },
+        {
+          "name": "tundra",
+          "confidence": 0.8824242353439331
+        },
+        {
+          "name": "depression",
+          "confidence": 0.8697599768638611
+        },
+        {
+          "name": "fell",
+          "confidence": 0.8533039093017578
+        },
+        {
+          "name": "hill",
+          "confidence": 0.8530625104904175
+        },
+        {
+          "name": "plateau",
+          "confidence": 0.8491147756576538
+        },
+        {
+          "name": "shrubland",
+          "confidence": 0.8441421389579773
+        },
+        {
+          "name": "ground",
+          "confidence": 0.8119845986366272
+        },
+        {
+          "name": "desert",
+          "confidence": 0.7451385259628296
+        },
+        {
+          "name": "highland",
+          "confidence": 0.6172904968261719
+        }
+      ]
+    }
+  }
+}

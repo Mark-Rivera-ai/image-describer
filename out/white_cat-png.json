@@ -1,0 +1,89 @@
+{
+  "source": "samples\\white_cat.png",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "a close up of a cat",
+    "confidence": 0.7974253296852112
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a close up of a cat",
+      "confidence": 0.7974253296852112
+    },
+    "metadata": {
+      "width": 442,
+      "height": 635
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "animal",
+          "confidence": 0.9995179176330566
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9992756247520447
+        },
+        {
+          "name": "cat",
+          "confidence": 0.9984310865402222
+        },
+        {
+          "name": "domestic cat",
+          "confidence": 0.9950810670852661
+        },
+        {
+          "name": "small to medium-sized cats",
+          "confidence": 0.9906026124954224
+        },
+        {
+          "name": "whiskers",
+          "confidence": 0.9830621480941772
+        },
+        {
+          "name": "felidae",
+          "confidence": 0.9536332488059998
+        },
+        {
+          "name": "kitten",
+          "confidence": 0.9104115962982178
+        },
+        {
+          "name": "malayan cat",
+          "confidence": 0.897743821144104
+        },
+        {
+          "name": "fur",
+          "confidence": 0.8837906122207642
+        },
+        {
+          "name": "domestic short-haired cat",
+          "confidence": 0.8661606907844543
+        },
+        {
+          "name": "ojos azules",
+          "confidence": 0.8583639860153198
+        },
+        {
+          "name": "arabian mau",
+          "confidence": 0.8489288091659546
+        },
+        {
+          "name": "white",
+          "confidence": 0.7380384206771851
+        },
+        {
+          "name": "indoor",
+          "confidence": 0.6932798624038696
+        },
+        {
+          "name": "eyes",
+          "confidence": 0.595355749130249
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "source": "samples\\black_dog.png",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "a black dog with a sad look",
+    "confidence": 0.7207568883895874
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a black dog with a sad look",
+      "confidence": 0.7207568883895874
+    },
+    "metadata": {
+      "width": 418,
+      "height": 486
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "animal",
+          "confidence": 0.9969094395637512
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.993431568145752
+        },
+        {
+          "name": "dog",
+          "confidence": 0.9887908697128296
+        },
+        {
+          "name": "dog breed",
+          "confidence": 0.9843248128890991
+        },
+        {
+          "name": "pet",
+          "confidence": 0.9551417827606201
+        },
+        {
+          "name": "snout",
+          "confidence": 0.9467204809188843
+        },
+        {
+          "name": "black and white",
+          "confidence": 0.9166197776794434
+        },
+        {
+          "name": "black",
+          "confidence": 0.9153337478637695
+        },
+        {
+          "name": "pug",
+          "confidence": 0.9030336141586304
+        },
+        {
+          "name": "puppy",
+          "confidence": 0.6766064167022705
+        },
+        {
+          "name": "monochrome",
+          "confidence": 0.5707623362541199
+        }
+      ]
+    }
+  }
+}

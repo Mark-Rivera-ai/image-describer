@@ -1,0 +1,81 @@
+{
+  "source": "samples\\dog.jpg",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "two puppies sitting in the grass",
+    "confidence": 0.798431932926178
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "two puppies sitting in the grass",
+      "confidence": 0.798431932926178
+    },
+    "metadata": {
+      "width": 533,
+      "height": 462
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "mammal",
+          "confidence": 0.9962191581726074
+        },
+        {
+          "name": "animal",
+          "confidence": 0.992172360420227
+        },
+        {
+          "name": "dog",
+          "confidence": 0.9905943870544434
+        },
+        {
+          "name": "dog breed",
+          "confidence": 0.9851258993148804
+        },
+        {
+          "name": "grass",
+          "confidence": 0.9749194383621216
+        },
+        {
+          "name": "pet",
+          "confidence": 0.925729513168335
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9236153364181519
+        },
+        {
+          "name": "golden retriever",
+          "confidence": 0.914264976978302
+        },
+        {
+          "name": "companion dog",
+          "confidence": 0.8700683116912842
+        },
+        {
+          "name": "retriever",
+          "confidence": 0.8643705248832703
+        },
+        {
+          "name": "sporting group",
+          "confidence": 0.8508935570716858
+        },
+        {
+          "name": "small greek domestic dog",
+          "confidence": 0.8415694236755371
+        },
+        {
+          "name": "puppy",
+          "confidence": 0.6055695414543152
+        },
+        {
+          "name": "field",
+          "confidence": 0.5911742448806763
+        }
+      ]
+    }
+  }
+}

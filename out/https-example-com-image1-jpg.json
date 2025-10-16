@@ -1,0 +1,8 @@
+{
+  "source": "https://example.com/image1.jpg",
+  "success": false,
+  "error": "HttpResponseError: (InvalidRequest) The provided image url can not be accessed. status code: 404.\nCode: InvalidRequest\nMessage: The provided image url can not be accessed. status code: 404.",
+  "caption": null,
+  "tags": [],
+  "raw": null
+}

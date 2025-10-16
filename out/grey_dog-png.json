@@ -1,0 +1,61 @@
+{
+  "source": "samples\\grey_dog.png",
+  "success": true,
+  "error": null,
+  "caption": {
+    "text": "a close up of a dog",
+    "confidence": 0.8492945432662964
+  },
+  "tags": [],
+  "raw": {
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a close up of a dog",
+      "confidence": 0.8492945432662964
+    },
+    "metadata": {
+      "width": 511,
+      "height": 397
+    },
+    "tagsResult": {
+      "values": [
+        {
+          "name": "animal",
+          "confidence": 0.9969092607498169
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9948232173919678
+        },
+        {
+          "name": "dog breed",
+          "confidence": 0.9855854511260986
+        },
+        {
+          "name": "dog",
+          "confidence": 0.9824070334434509
+        },
+        {
+          "name": "snout",
+          "confidence": 0.9456881284713745
+        },
+        {
+          "name": "pet",
+          "confidence": 0.9238535165786743
+        },
+        {
+          "name": "collar",
+          "confidence": 0.8614757061004639
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.6392328143119812
+        },
+        {
+          "name": "puppy",
+          "confidence": 0.45248690247535706
+        }
+      ]
+    }
+  }
+}
